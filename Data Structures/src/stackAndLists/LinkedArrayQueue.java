@@ -1,4 +1,4 @@
-package project2;
+package stackAndLists;
 
 public class LinkedArrayQueue<E> {
 	// don't forget the member data

@@ -1,4 +1,4 @@
-package project3;
+package binaryExpressionTree;
 
 public class Main {
 	public static void main(String[] args) {

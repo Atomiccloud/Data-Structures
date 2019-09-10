@@ -1,4 +1,4 @@
-package project1;
+package circularDoubleLinkedList;
 
 public class CDList<E> implements Cloneable {
 	// --------------nested node class------------

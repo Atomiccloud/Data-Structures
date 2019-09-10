@@ -1,4 +1,4 @@
-package project4;
+package cuckooHashMap;
 
 import java.util.ArrayList;
 

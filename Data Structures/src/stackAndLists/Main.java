@@ -1,4 +1,4 @@
-package project2;
+package stackAndLists;
 
 import java.util.Random;
 public class Main {

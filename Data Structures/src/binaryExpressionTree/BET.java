@@ -1,4 +1,4 @@
-package project3;
+package binaryExpressionTree;
 
 import java.util.LinkedList;
 import java.util.Queue;

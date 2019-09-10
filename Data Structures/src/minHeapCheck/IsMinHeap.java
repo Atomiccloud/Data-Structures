@@ -1,4 +1,4 @@
-package assignment4;
+package minHeapCheck;
 
 public class IsMinHeap {
 	public static int[] arr = {1, 2, 3, 4, 5 };

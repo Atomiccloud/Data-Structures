@@ -1,4 +1,4 @@
-package project2;
+package stackAndLists;
 
 //Note that <E extends Comparable>. Therefore you should use Comparable
 //instead of Object while creating arrays and casting them to generic type.

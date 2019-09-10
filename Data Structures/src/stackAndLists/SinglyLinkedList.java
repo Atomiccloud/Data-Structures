@@ -1,4 +1,4 @@
-package project2;
+package stackAndLists;
 
 public class SinglyLinkedList<E> {
 	@SuppressWarnings("hiding")

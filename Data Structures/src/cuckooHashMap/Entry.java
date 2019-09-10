@@ -1,4 +1,4 @@
-package project4;
+package cuckooHashMap;
 
 public class Entry<K,V> {
 	//keys and values
